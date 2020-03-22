@@ -2,6 +2,7 @@ Gender Recognition by Voice and Speech Analysis
 
 This database was created to identify a voice as male or female, based upon acoustic properties of the voice and speech. The dataset consists of 3,168 recorded voice samples, collected from male and female speakers. The voice samples are pre-processed by acoustic analysis in R using the seewave and tuneR packages, with an analyzed frequency range of 0hz-280hz (human vocal range).
 To access this dataset click on the link below
+
 https://www.kaggle.com/primaryobjects/voicegender
 
 The Dataset
@@ -79,6 +80,7 @@ Accuracy:96.84%
 
 
 Instructions to follow while going through the notebooks:
+
 1.Since I have written the code on google colab, you can upload it and execute it on Google Colab in the following order
 
   a) The Data Visualization.ipynb has different visualisations to understand the data
